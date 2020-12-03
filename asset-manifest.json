@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/civ-final-project/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/civ-final-project/static/js/main.18790f3c.chunk.js",
-    "main.js.map": "/civ-final-project/static/js/main.18790f3c.chunk.js.map",
+    "main.js": "/civ-final-project/static/js/main.50020d18.chunk.js",
+    "main.js.map": "/civ-final-project/static/js/main.50020d18.chunk.js.map",
     "runtime-main.js": "/civ-final-project/static/js/runtime-main.cb752cc8.js",
     "runtime-main.js.map": "/civ-final-project/static/js/runtime-main.cb752cc8.js.map",
     "static/css/2.1a02f21c.chunk.css": "/civ-final-project/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.0d531702.chunk.js": "/civ-final-project/static/js/2.0d531702.chunk.js",
-    "static/js/2.0d531702.chunk.js.map": "/civ-final-project/static/js/2.0d531702.chunk.js.map",
+    "static/js/2.1e96fc49.chunk.js": "/civ-final-project/static/js/2.1e96fc49.chunk.js",
+    "static/js/2.1e96fc49.chunk.js.map": "/civ-final-project/static/js/2.1e96fc49.chunk.js.map",
     "static/js/3.e2c5393a.chunk.js": "/civ-final-project/static/js/3.e2c5393a.chunk.js",
     "static/js/3.e2c5393a.chunk.js.map": "/civ-final-project/static/js/3.e2c5393a.chunk.js.map",
     "index.html": "/civ-final-project/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/civ-final-project/static/css/2.1a02f21c.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/civ-final-project/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.0d531702.chunk.js.LICENSE.txt": "/civ-final-project/static/js/2.0d531702.chunk.js.LICENSE.txt"
+    "static/js/2.1e96fc49.chunk.js.LICENSE.txt": "/civ-final-project/static/js/2.1e96fc49.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cb752cc8.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.0d531702.chunk.js",
+    "static/js/2.1e96fc49.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.18790f3c.chunk.js"
+    "static/js/main.50020d18.chunk.js"
   ]
 }
